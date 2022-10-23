@@ -4,6 +4,14 @@ Looking at known data, I am using linear regression and random forest models to 
 ## Overview of the analysis
 Using multiple models and methods, the purpose of this analysis is to see if I can create a model that effectively predicts whether a customer is high or low risk for credit worthyness.
 
+First, I shaped and cleaned the data to me needs:
+![Alt text](https://github.com/thegreatkeej/Credit_Risk_Analysis/blob/main/images/Picture1.png)
+
+Second, I split the data up for testing and training:
+![Alt text](https://github.com/thegreatkeej/Credit_Risk_Analysis/blob/main/images/Picture2.png)
+
+Third, I created a model and a confusion matrix:
+![Alt text](https://github.com/thegreatkeej/Credit_Risk_Analysis/blob/main/images/Picture3.png)
 ## Results
 
 ### Credit Risk Resampling
